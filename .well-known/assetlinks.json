@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.netlify.github_netlify_deploy_0cc412.twa",
+      "sha256_cert_fingerprints": [
+        "42:23:A8:81:FE:DC:71:04:C5:8F:0C:53:A5:11:69:9A:EF:99:AE:6F:48:CD:3C:DC:DF:05:AF:F4:E9:80:9E:7C",
+        "07:2A:47:F1:5B:39:4A:29:7D:1B:96:7A:A9:5A:BF:5E:D1:0A:04:29:BF:52:30:6B:C7:7F:75:03:1F:3F:09:0F"
+      ]
+    }
+  }
+]
